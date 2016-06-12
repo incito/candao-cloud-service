@@ -1,0 +1,50 @@
+2016-06-07 07:50:53[org.I0Itec.zkclient.ZkClient] [main-EventThread:51936200] - [INFO]  zookeeper state changed (Disconnected)
+2016-06-07 07:50:56[org.I0Itec.zkclient.ZkClient] [main-EventThread:51939125] - [INFO]  zookeeper state changed (Expired)
+2016-06-07 07:50:56[org.I0Itec.zkclient.ZkClient] [main-EventThread:51939233] - [INFO]  zookeeper state changed (SyncConnected)
+2016-06-07 11:55:34[org.springframework.context.support.ClassPathXmlApplicationContext] [main:0] - [INFO]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6edd421f: startup date [Tue Jun 07 11:55:34 CST 2016]; root of context hierarchy
+2016-06-07 11:55:34[org.springframework.beans.factory.xml.XmlBeanDefinitionReader] [main:58] - [INFO]  Loading XML bean definitions from class path resource [applicationContext-provider-test.xml]
+2016-06-07 11:55:34[org.springframework.beans.factory.xml.XmlBeanDefinitionReader] [main:252] - [INFO]  Loading XML bean definitions from URL [file:/D:/local/mine/candao-ad/candao-ad-service/target/classes/applicationContext-mybatis.xml]
+2016-06-07 11:55:34[org.springframework.beans.factory.xml.XmlBeanDefinitionReader] [main:341] - [INFO]  Loading XML bean definitions from URL [file:/D:/local/mine/candao-ad/candao-ad-service/target/classes/applicationContext-consumer.xml]
+2016-06-07 11:55:34[org.mybatis.spring.mapper.ClassPathMapperScanner] [main:663] - [WARN]  No MyBatis mapper was found in '[com.renlian.packets.dao]' package. Please check your configuration.
+2016-06-07 11:55:34[org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] [main:675] - [INFO]  Loading properties file from class path resource [db.properties]
+2016-06-07 11:56:52[org.springframework.context.support.ClassPathXmlApplicationContext] [main:0] - [INFO]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6edd421f: startup date [Tue Jun 07 11:56:52 CST 2016]; root of context hierarchy
+2016-06-07 11:56:52[org.springframework.beans.factory.xml.XmlBeanDefinitionReader] [main:65] - [INFO]  Loading XML bean definitions from class path resource [applicationContext-provider-test.xml]
+2016-06-07 11:56:52[org.springframework.beans.factory.xml.XmlBeanDefinitionReader] [main:312] - [INFO]  Loading XML bean definitions from URL [file:/D:/local/mine/candao-ad/candao-ad-service/target/classes/applicationContext-mybatis.xml]
+2016-06-07 11:56:52[org.springframework.beans.factory.xml.XmlBeanDefinitionReader] [main:427] - [INFO]  Loading XML bean definitions from URL [file:/D:/local/mine/candao-ad/candao-ad-service/target/classes/applicationContext-consumer.xml]
+2016-06-07 11:56:53[org.mybatis.spring.mapper.ClassPathMapperScanner] [main:838] - [WARN]  No MyBatis mapper was found in '[com.renlian.packets.dao]' package. Please check your configuration.
+2016-06-07 11:56:53[org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] [main:851] - [INFO]  Loading properties file from class path resource [db.properties]
+2016-06-07 11:56:55[org.I0Itec.zkclient.ZkEventThread] [ZkClient-EventThread-17-10.66.21.86:2181:2816] - [INFO]  Starting ZkClient event thread.
+2016-06-07 11:56:55[org.I0Itec.zkclient.ZkClient] [main-EventThread:2869] - [INFO]  zookeeper state changed (SyncConnected)
+2016-06-07 11:58:13[org.springframework.context.support.ClassPathXmlApplicationContext] [main:0] - [INFO]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6edd421f: startup date [Tue Jun 07 11:58:13 CST 2016]; root of context hierarchy
+2016-06-07 11:58:13[org.springframework.beans.factory.xml.XmlBeanDefinitionReader] [main:57] - [INFO]  Loading XML bean definitions from class path resource [applicationContext-provider-test.xml]
+2016-06-07 11:58:13[org.springframework.beans.factory.xml.XmlBeanDefinitionReader] [main:254] - [INFO]  Loading XML bean definitions from URL [file:/D:/local/mine/candao-ad/candao-ad-service/target/classes/applicationContext-mybatis.xml]
+2016-06-07 11:58:13[org.springframework.beans.factory.xml.XmlBeanDefinitionReader] [main:339] - [INFO]  Loading XML bean definitions from URL [file:/D:/local/mine/candao-ad/candao-ad-service/target/classes/applicationContext-consumer.xml]
+2016-06-07 11:58:13[org.mybatis.spring.mapper.ClassPathMapperScanner] [main:658] - [WARN]  No MyBatis mapper was found in '[com.renlian.packets.dao]' package. Please check your configuration.
+2016-06-07 11:58:13[org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] [main:672] - [INFO]  Loading properties file from class path resource [db.properties]
+2016-06-07 11:58:15[org.I0Itec.zkclient.ZkEventThread] [ZkClient-EventThread-17-10.66.21.86:2181:2307] - [INFO]  Starting ZkClient event thread.
+2016-06-07 11:58:15[org.I0Itec.zkclient.ZkClient] [main-EventThread:2343] - [INFO]  zookeeper state changed (SyncConnected)
+2016-06-07 11:59:19[org.springframework.context.support.ClassPathXmlApplicationContext] [main:0] - [INFO]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@203a16: startup date [Tue Jun 07 11:59:19 CST 2016]; root of context hierarchy
+2016-06-07 11:59:19[org.springframework.beans.factory.xml.XmlBeanDefinitionReader] [main:60] - [INFO]  Loading XML bean definitions from class path resource [applicationContext-provider-test.xml]
+2016-06-07 11:59:19[org.springframework.beans.factory.xml.XmlBeanDefinitionReader] [main:278] - [INFO]  Loading XML bean definitions from URL [file:/D:/local/mine/candao-ad/candao-ad-service/target/classes/applicationContext-mybatis.xml]
+2016-06-07 11:59:19[org.springframework.beans.factory.xml.XmlBeanDefinitionReader] [main:397] - [INFO]  Loading XML bean definitions from URL [file:/D:/local/mine/candao-ad/candao-ad-service/target/classes/applicationContext-consumer.xml]
+2016-06-07 11:59:20[org.mybatis.spring.mapper.ClassPathMapperScanner] [main:786] - [WARN]  No MyBatis mapper was found in '[com.candao.ad.dao]' package. Please check your configuration.
+2016-06-07 11:59:20[org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] [main:799] - [INFO]  Loading properties file from class path resource [db.properties]
+2016-06-07 11:59:21[org.I0Itec.zkclient.ZkEventThread] [ZkClient-EventThread-17-10.66.21.86:2181:2671] - [INFO]  Starting ZkClient event thread.
+2016-06-07 11:59:21[org.I0Itec.zkclient.ZkClient] [main-EventThread:2711] - [INFO]  zookeeper state changed (SyncConnected)
+2016-06-07 13:12:39[org.I0Itec.zkclient.ZkClient] [main-EventThread:71242185] - [INFO]  zookeeper state changed (Disconnected)
+2016-06-07 13:12:39[org.I0Itec.zkclient.ZkClient] [main-EventThread:4400398] - [INFO]  zookeeper state changed (Disconnected)
+2016-06-07 13:12:41[org.I0Itec.zkclient.ZkClient] [main-EventThread:71243903] - [INFO]  zookeeper state changed (Expired)
+2016-06-07 13:12:41[org.I0Itec.zkclient.ZkClient] [main-EventThread:71244009] - [INFO]  zookeeper state changed (SyncConnected)
+2016-06-07 13:12:41[org.I0Itec.zkclient.ZkClient] [main-EventThread:4402316] - [INFO]  zookeeper state changed (Expired)
+2016-06-07 13:12:41[org.I0Itec.zkclient.ZkClient] [main-EventThread:4402534] - [INFO]  zookeeper state changed (SyncConnected)
+2016-06-07 14:53:37[org.springframework.context.support.ClassPathXmlApplicationContext] [main:1] - [INFO]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@203a16: startup date [Tue Jun 07 14:53:37 CST 2016]; root of context hierarchy
+2016-06-07 14:53:37[org.springframework.beans.factory.xml.XmlBeanDefinitionReader] [main:60] - [INFO]  Loading XML bean definitions from class path resource [applicationContext-provider-test.xml]
+2016-06-07 14:53:37[org.springframework.beans.factory.xml.XmlBeanDefinitionReader] [main:255] - [INFO]  Loading XML bean definitions from URL [file:/D:/local/mine/candao-ad/candao-ad-service/target/classes/applicationContext-mybatis.xml]
+2016-06-07 14:53:37[org.springframework.beans.factory.xml.XmlBeanDefinitionReader] [main:345] - [INFO]  Loading XML bean definitions from URL [file:/D:/local/mine/candao-ad/candao-ad-service/target/classes/applicationContext-consumer.xml]
+2016-06-07 14:53:37[org.mybatis.spring.mapper.ClassPathMapperScanner] [main:691] - [WARN]  No MyBatis mapper was found in '[com.candao.ad.dao]' package. Please check your configuration.
+2016-06-07 14:53:37[org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] [main:709] - [INFO]  Loading properties file from class path resource [db.properties]
+2016-06-07 14:53:39[org.I0Itec.zkclient.ZkEventThread] [ZkClient-EventThread-17-10.66.21.86:2181:2416] - [INFO]  Starting ZkClient event thread.
+2016-06-07 14:53:39[org.I0Itec.zkclient.ZkClient] [main-EventThread:2485] - [INFO]  zookeeper state changed (SyncConnected)
+2016-06-07 16:22:32[org.I0Itec.zkclient.ZkClient] [main-EventThread:5334773] - [INFO]  zookeeper state changed (Disconnected)
+2016-06-07 16:23:31[org.I0Itec.zkclient.ZkClient] [main-EventThread:5394697] - [INFO]  zookeeper state changed (Expired)
+2016-06-07 16:23:32[org.I0Itec.zkclient.ZkClient] [main-EventThread:5394853] - [INFO]  zookeeper state changed (SyncConnected)
